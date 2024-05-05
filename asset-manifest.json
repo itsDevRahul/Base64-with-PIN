@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Base64-with-PIN/static/css/main.c49d205d.css",
+    "main.js": "/Base64-with-PIN/static/js/main.0a116a65.js",
+    "index.html": "/Base64-with-PIN/index.html",
+    "main.c49d205d.css.map": "/Base64-with-PIN/static/css/main.c49d205d.css.map",
+    "main.0a116a65.js.map": "/Base64-with-PIN/static/js/main.0a116a65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c49d205d.css",
+    "static/js/main.0a116a65.js"
+  ]
+}
